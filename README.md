@@ -1,5 +1,6 @@
-# SpeedRunEthereum
-Welcome to SpeedRunEthereum! I’ve conquered this ultimate crash course in Ethereum development and emerged as a dApp wizard.
+SpeedRunEthereum 🚀
+
+Welcome to SpeedRunEthereum! I’ve conquered this ultimate crash course in Ethereum development and emerged as a dApp wizard. Check out my progress here.
 
 Key Highlights:
 
@@ -12,5 +13,3 @@ Key Highlights:
 	•	Open Source Contributions: Became part of the open-source Ethereum community.
 
 Completing SpeedRunEthereum was exhilarating. Whether you’re a seasoned developer or a blockchain enthusiast, this is your ticket to mastering the decentralized world.
-
-Feel free to tweak it to better fit your experience!

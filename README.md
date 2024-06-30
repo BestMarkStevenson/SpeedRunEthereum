@@ -1,6 +1,6 @@
 SpeedRunEthereum 🚀
 
-Welcome to SpeedRunEthereum! I’ve conquered this ultimate crash course in Ethereum development and emerged as a dApp wizard. Check out my progress here.
+Welcome to SpeedRunEthereum! I’ve conquered this ultimate crash course in Ethereum development and emerged as a dApp wizard. Check out my progress here: https://speedrunethereum.com/builders/0xfA236b53DC1ae745FC4594Ef373C3B92Ba381cE5
 
 Key Highlights:
 
